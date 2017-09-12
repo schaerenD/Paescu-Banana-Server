@@ -6,3 +6,5 @@ Es handelt sich um ein BananaPi Projekt welches über eine App, das Abfragen des
 Coprigth by D.S.
 
 Heute: BananaPi und GitHub zuasmmenführen. Villeicht!
+
+Weiter Änderung jetzt Synchen.
